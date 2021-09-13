@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Liya Philipose
+*Web App Developer,AI-ML Enthusiast*
 
-You can use the [editor on GitHub](https://github.com/Liya2000/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+* Undergraduate in Btech specialisation in Computer Science
+* St.Thomas Higher Secondary School (2016-2018)
+* St.Thomas Residential School (2004-2016)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1: Cronary Heart Disease Pridction ]
 
-### Markdown
+This project integrates with the prediction based on the data 
+* **Python libraries used:** pandas,numpy etc
+* **Input:** Data collected for Heart diseased people
+* **Output:** Analysis done based on the data taught
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2: Credit Card Fraud Detection Web App]
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Liya2000/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project makes use of fraudulent transactions given.
+* **Python libraries used:** Flask,Python,Numpy
+* **Input:** Historical fraudulent transaction with some true values
+* **Output:** The system gives an output whether the given transaction is fraudulent or not
