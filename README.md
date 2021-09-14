@@ -7,6 +7,7 @@
 * St.Thomas Residential School (2004-2016)
 
 # [Project 1: Cronary Heart Disease Pridction ]
+![alt text](coronary heart.jpg)
 
 This project integrates with the prediction based on the data 
 * **Python libraries used:** pandas,numpy etc
@@ -14,6 +15,7 @@ This project integrates with the prediction based on the data
 * **Output:** Analysis done based on the data taught
 
 # [Project 2: Credit Card Fraud Detection Web App]
+![alt text](credit card.jpg)
 
 This project makes use of fraudulent transactions given.
 * **Python libraries used:** Flask,Python,Numpy
