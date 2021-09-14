@@ -41,9 +41,9 @@ This project makes use of fraudulent transactions given.
 * **Output:** The system gives an output whether the given transaction is fraudulent or not
 
 # Internships
-* Microsoft VerzeoEdutech
-*  **One month internship program for Machine Learning with Python**
-*  **Online interactive sessions followed by handson projects and solving the real world problem as a team**
+* **Microsoft VerzeoEdutech**
+*  One month internship program for Machine Learning with Python
+*  Online interactive sessions followed by handson projects and solving the real world problem as a team
 
-* Assistive technology
-*  **Series of talk of experts in assistive tech field followed by idea presentation and project presentation based on Assistive Technology**
+* **Assistive technology**
+*  Series of talk of experts in assistive tech field followed by idea presentation and project presentation based on Assistive Technology
