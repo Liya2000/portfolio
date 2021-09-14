@@ -1,10 +1,24 @@
 # Liya Philipose
 *Web App Developer,AI-ML Enthusiast*
 
+
+#About Me
+*Undergraduate in Btech,Computer Science Engineering
+*Seeking a position in the field of Computer Science where I can utilize my skills to achieve personal and professional development
+*and contribute towards the prosperity of the organisation.
+
 # Education
-* Undergraduate in Btech specialisation in Computer Science
-* St.Thomas Higher Secondary School (2016-2018)
-* St.Thomas Residential School (2004-2016)
+* Computer Science Engineering(present): Mar Baselios College of Engineering and Technology(2018-2022)
+* Higher Secondary(11,12th): St.Thomas Higher Secondary School (2016-2018)
+* High School-ICSE : St.Thomas Residential School (2004-2016)
+
+
+# Skills
+*HTML5
+*CSS3
+*JAVASCRIPT
+*PYTHON
+*JAVA
 
 # [Project 1: Cronary Heart Disease Pridction ]
 ![alt text](jesse-orrico-Us3AQvyOP-o-unsplash.jpg)
