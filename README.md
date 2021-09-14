@@ -3,9 +3,9 @@
 
 
 #About Me
-*Undergraduate in Btech,Computer Science Engineering
-*Seeking a position in the field of Computer Science where I can utilize my skills to achieve personal and professional development
-*and contribute towards the prosperity of the organisation.
+* Undergraduate in Btech,Computer Science Engineering
+* Seeking a position in the field of Computer Science where I can utilize my skills to achieve personal and professional development
+* and contribute towards the prosperity of the organisation.
 
 # Education
 * Computer Science Engineering(present): Mar Baselios College of Engineering and Technology(2018-2022)
@@ -14,11 +14,11 @@
 
 
 # Skills
-*HTML5
-*CSS3
-*JAVASCRIPT
-*PYTHON
-*JAVA
+* HTML5
+* CSS3
+* JAVASCRIPT
+* PYTHON
+* JAVA
 
 # [Project 1: Cronary Heart Disease Pridction ]
 ![alt text](jesse-orrico-Us3AQvyOP-o-unsplash.jpg)
