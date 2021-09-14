@@ -47,3 +47,6 @@ This project makes use of fraudulent transactions given.
 
 * **Assistive technology**
 *  Series of talk of experts in assistive tech field followed by idea presentation and project presentation based on Assistive Technology
+
+# Contact
+< a href "https://www.qwiklabs.com/public_profiles/cc6bc0ea-5a49-4ae8-a6dd-28768a1853ce">Qwiklabs</a> &amp; <a href="https://www.linkedin.com/in/liya-philipose-570b44198/">Linkedin</a>
