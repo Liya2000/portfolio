@@ -2,7 +2,7 @@
 *Web App Developer,AI-ML Enthusiast*
 
 
-#About Me
+# About Me
 * Undergraduate in Btech,Computer Science Engineering
 * Seeking a position in the field of Computer Science where I can utilize my skills to achieve personal and professional development
 * and contribute towards the prosperity of the organisation.
@@ -19,6 +19,8 @@
 * JAVASCRIPT
 * PYTHON
 * JAVA
+* C
+* C++
 
 # [Project 1: Cronary Heart Disease Pridction ]
 ![alt text](jesse-orrico-Us3AQvyOP-o-unsplash.jpg)
@@ -37,3 +39,11 @@ This project makes use of fraudulent transactions given.
 * **Python libraries used:** Flask,Python,Numpy
 * **Input:** Historical fraudulent transaction with some true values
 * **Output:** The system gives an output whether the given transaction is fraudulent or not
+
+# Internships
+* Microsoft VerzeoEdutech
+*  ** One month internship program for Machine Learning with Python
+*  ** Online interactive sessions followed by handson projects and solving the real world problem as a team
+
+* Assistive technology
+*  ** series of talk followed by idea presentation and project presentation based on Assistive Technology.
