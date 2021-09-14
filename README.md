@@ -42,8 +42,8 @@ This project makes use of fraudulent transactions given.
 
 # Internships
 * Microsoft VerzeoEdutech
-*  ** One month internship program for Machine Learning with Python
-*  ** Online interactive sessions followed by handson projects and solving the real world problem as a team
+*  **One month internship program for Machine Learning with Python
+*  **Online interactive sessions followed by handson projects and solving the real world problem as a team
 
 * Assistive technology
-*  ** series of talk followed by idea presentation and project presentation based on Assistive Technology.
+*  **Series of talk of experts in assistive tech field followed by idea presentation and project presentation based on Assistive Technology
