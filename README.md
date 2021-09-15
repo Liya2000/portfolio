@@ -1,10 +1,9 @@
 # Liya Philipose
-*Web App Developer,AI-ML Enthusiast*
+*Web Designer and App Developer,AI-ML Enthusiast*
 
 
 # About Me
-* Undergraduate in Btech,Computer Science Engineering
-* Seeking a position in the field of Computer Science where I can utilize my skills to achieve personal and professional development and contribute towards
+* Undergraduate in Btech,Computer Science Engineering. Seeking a position in the field of Computer Science where I can utilize my skills to achieve personal and professional development and contribute towards
  the prosperity of the organisation.
 
 # Education
